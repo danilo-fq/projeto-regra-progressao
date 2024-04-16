@@ -17,7 +17,7 @@ public class App {
 
     int examsNumber = Integer.parseInt(scanner.nextLine());
 
-    for(int index = 1; index <= examsNumber; index += 1) {
+    for (int index = 1; index <= examsNumber; index += 1) {
       System.out.println("Digite o nome da atividade " + index + ":");
       String examName = scanner.nextLine();
       System.out.println("Digite o peso da atividade " + index + ":");
