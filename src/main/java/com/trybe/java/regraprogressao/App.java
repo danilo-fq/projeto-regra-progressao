@@ -22,6 +22,8 @@ public class App {
       String examName = scanner.nextLine();
       System.out.println("Digite o peso da atividade " + index + ":");
       Integer examWeight = Integer.parseInt(scanner.nextLine());
+      System.out.println("Digite a nota obtida para " + examName + ":");
+      Integer examGrade = Integer.parseInt(scanner.nextLine());
     }
 
     scanner.close();
