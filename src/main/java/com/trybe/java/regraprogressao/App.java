@@ -38,6 +38,12 @@ public class App {
     scanner.close();
   }
 
+  /**
+   * VerifyExamsGrade. Metodo que verifica se os pesos das atividades é igual a 100.
+   *
+   * @param gradeList Lista das atividades com seus nomes, pesos e notas.
+   *
+   */
   public static void verifyExamsGrade(Grade[] gradeList) {
     int weigthSums = 0;
 
