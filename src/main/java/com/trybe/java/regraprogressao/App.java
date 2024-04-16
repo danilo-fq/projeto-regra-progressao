@@ -62,6 +62,10 @@ public class App {
     return weigthSums;
   }
 
+  /**
+   * VerifyStudentStatus. Método que avalia a nota final no período do estudante
+   * @param gradeList Lista das notas que o estudante obteve para cada projeto.
+   */
   public static void verifyStudentStatus(Grade[] gradeList) {
     double result = 0;
     for (Grade grade : gradeList) {
