@@ -1,8 +1,8 @@
-# 📊 Sistema de Avaliação Acadêmica - Regra de Progressão
+# Sistema de Avaliação Acadêmica - Regra de Progressão
 
 Sistema desenvolvido em Java para calcular a aprovação de estudantes com base em atividades ponderadas. O sistema permite cadastrar múltiplas atividades com pesos e notas, calculando automaticamente a média ponderada final e determinando o status de aprovação do aluno.
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido durante a **Aceleração Java da Trybe** com foco na aplicação prática de conceitos fundamentais de **Programação Orientada a Objetos** e boas práticas de desenvolvimento Java.
 
@@ -11,7 +11,7 @@ O sistema implementa uma regra de progressão acadêmica onde:
 - A soma dos pesos deve totalizar **100%**
 - A aprovação ocorre quando a média ponderada é **≥ 85%**
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - ✅ Cadastro dinâmico de atividades acadêmicas
 - ✅ Validação de pesos (soma deve ser 100)
@@ -27,7 +27,7 @@ O sistema implementa uma regra de progressão acadêmica onde:
 - **JUnit 5** - Framework de testes unitários
 - **Google Checkstyle** - Garantia de qualidade de código
 
-## 🧠 Conceitos de POO Aplicados
+## Conceitos de POO Aplicados
 
 ### Encapsulamento
 - Atributos privados na classe `Grade` com modificadores `final`
@@ -45,7 +45,7 @@ O sistema implementa uma regra de progressão acadêmica onde:
 - Nomes descritivos de variáveis e métodos
 - Javadoc para documentação do código
 
-## 📦 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 - Java 17 ou superior
@@ -79,7 +79,7 @@ mvnw.cmd clean install
 mvnw.cmd exec:java -Dexec.mainClass="com.trybe.java.regraprogressao.App"
 ```
 
-## 💻 Exemplo de Uso
+## Exemplo de Uso
 
 ```
 Digite a quantidade de atividades para cadastrar:
@@ -134,7 +134,7 @@ Durante o desenvolvimento deste projeto, foram consolidados os seguintes conheci
 - **Maven**: Gerenciamento de projetos e dependências
 - **Qualidade de Código**: Aplicação de padrões Google Checkstyle
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Danilo Ferreira Queiroz**
 
@@ -143,10 +143,10 @@ Desenvolvido por **Danilo Ferreira Queiroz**
 
 ---
 
-## 📝 Nota sobre o Projeto
+## Nota sobre o Projeto
 
 Este projeto foi desenvolvido como parte do programa de **Aceleração Java da Trybe**, durante o módulo de Fundamentos e Orientação a Objetos. O código-fonte foi integralmente desenvolvido por mim, seguindo os requisitos técnicos propostos pelo programa de estudos.
 
-## 📄 Licença
+## Licença
 
 Este projeto é de código aberto e está disponível para fins educacionais.
