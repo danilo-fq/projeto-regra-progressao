@@ -24,7 +24,6 @@ O sistema implementa uma regra de progressão acadêmica onde:
 
 - **Java 17** - Linguagem de programação
 - **Maven** - Gerenciamento de dependências e build
-- **JUnit 5** - Framework de testes unitários
 - **Google Checkstyle** - Garantia de qualidade de código
 
 ## Conceitos de POO Aplicados
