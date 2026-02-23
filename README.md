@@ -145,7 +145,7 @@ Desenvolvido por **Danilo Ferreira Queiroz**
 
 ## 📝 Nota sobre o Projeto
 
-Este projeto foi desenvolvido como parte do programa de **Aceleração Java da Trybe** em 2024, durante o módulo de Fundamentos e Orientação a Objetos. O código-fonte foi integralmente desenvolvido por mim, seguindo os requisitos técnicos propostos pelo programa de estudos.
+Este projeto foi desenvolvido como parte do programa de **Aceleração Java da Trybe**, durante o módulo de Fundamentos e Orientação a Objetos. O código-fonte foi integralmente desenvolvido por mim, seguindo os requisitos técnicos propostos pelo programa de estudos.
 
 ## 📄 Licença
 
